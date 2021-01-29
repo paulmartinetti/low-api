@@ -1,0 +1,54 @@
+{
+  "projet1": {
+    "id": 1,
+    "nom": "D1_Eco 50",
+    "delayStart": 1500,
+    "rampePWM": 40,
+    "speedWelding": 7.5,
+    "balayage": 0.8,
+    "speedWire": 3,
+    "pulseWire": 5,
+    "retractWire": 7,
+    "huitieme": 5,
+    "neuvieme": 1
+  },
+  "projet3": {
+    "id": 3,
+    "nom": "Janisol3",
+    "delayStart": 1500,
+    "rampePWM": 40,
+    "speedWelding": 7.5,
+    "balayage": 0.8,
+    "speedWire": 3,
+    "pulseWire": 5,
+    "retractWire": 7,
+    "huitieme": 5,
+    "neuvieme": 1
+  },
+  "projet4": {
+    "id": 4,
+    "nom": "janisol4",
+    "delayStart": 1500,
+    "rampePWM": 40,
+    "speedWelding": 7.5,
+    "balayage": 0.8,
+    "speedWire": 3,
+    "pulseWire": 5,
+    "retractWire": 7,
+    "huitieme": 5,
+    "neuvieme": 1
+  },
+  "projet5": {
+    "id": 5,
+    "nom": "janisol5",
+    "delayStart": 200,
+    "rampePWM": 40,
+    "speedWelding": 7.5,
+    "balayage": 0.8,
+    "speedWire": 3,
+    "pulseWire": 5,
+    "retractWire": 7,
+    "huitieme": 5,
+    "neuvieme": 1
+  }
+}
