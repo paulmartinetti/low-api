@@ -66,7 +66,7 @@ function guiUpdate() {
     sav.disabled = false;
 
     let sup = document.getElementById("suppProj");
-    sup.innerHTML = "Supprimer ce projet";
+    sup.innerHTML = "Supprimer";
     sup.disabled = supBtnDesactive;
 
     //ajouProj
@@ -272,7 +272,7 @@ function supprimeProjet() {
   let b = document.getElementById("suppProj");
   // confirmer
   if (!supBtnDesactive) {
-    b.innerHTML = "Supprimer, oui ?";
+    b.innerHTML = "Supprimer ?";
     supBtnDesactive = true;
     return;
   } else {
